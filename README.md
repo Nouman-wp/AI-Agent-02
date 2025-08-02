@@ -87,5 +87,3 @@ This project is open-source under the [MIT License](LICENSE)
 ---
 
 > 💬 Feel free to open issues or contribute PRs to improve this tool!
-
-```
