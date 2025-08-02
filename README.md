@@ -89,10 +89,3 @@ This project is open-source under the [MIT License](LICENSE)
 > 💬 Feel free to open issues or contribute PRs to improve this tool!
 
 ```
-
----
-
-
-
-Want me to **generate the logo or banner** for you? I can do that too — just let me know what style you'd prefer.
-```
