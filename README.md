@@ -1,6 +1,6 @@
 ##  Overview
 
-**AI-Agent-02** is an intelligent app that helps you repurpose **YouTube videos into ready-to-publish social media content**. Whether you’re a content creator, educator, marketer, or founder — this tool can save you hours every week.
+This is an intelligent agent that helps you repurpose **YouTube videos into ready-to-publish social media content**. Whether you’re a content creator, educator, marketer, or founder — this tool can save you hours every week.
 
 Just drop a YouTube video ID, select your platforms, and instantly get platform-specific content written by GPT-4o.
 
